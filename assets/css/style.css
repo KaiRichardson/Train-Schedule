@@ -1,0 +1,48 @@
+/* main body starts here */
+
+#main_body {
+    width: 80%;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: brown;
+    color: beige;
+}
+
+.card-header {
+    color: beige;
+    background-color: brown;
+}
+
+.card-body{
+    border: 1px solid brown;
+}
+
+.btn-primary{
+    color: beige;
+    background-color: brown;
+    border-color: brown;
+}
+
+#add_train {
+margin: 30px 0 30px 0;
+}
+
+/* footer starts here */
+
+#footer {
+    margin-top: auto;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background: brown;
+    height: 50px;
+    text-align: center;
+}
+
+#foottext {
+    color: #ffffff;
+    font-size: 8px;
+    padding-top: 25px;
+}
